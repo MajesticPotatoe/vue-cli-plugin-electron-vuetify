@@ -1,0 +1,19 @@
+{
+	"name": "vue-cli-plugin-electron-vuetify",
+  "version": "0.0.1",
+  "description": "vue-cli plugin to easily scaffold Vuetify 2.x w/ Electron 9.0",
+  "main": "index.js",
+	"repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajesticPotatoe/vue-cli-plugin-electron-vuetify.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "electron",
+    "vuetify"
+  ],
+  "author": "Andrew Henry <AMajesticPotatoe@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/MajesticPotatoe/vue-cli-plugin-electron-vuetify#readme"
+}
