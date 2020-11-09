@@ -5,7 +5,7 @@ const {
 } = require('fs')
 
 module.exports = (api, opts, rootOpts) => {
-  if (opts.install) {
+  if (opts.installElectronVuetify) {
     api.extendPackage({
       author: 'author <author@email.com>',
       description: 'a new electron-vuetify app',

@@ -1,6 +1,6 @@
 module.exports = [
   {
-    name: 'install',
+    name: 'installElectronVuetify',
     type: 'confirm',
     message: 'Install electron-vuetify?',
     default: true

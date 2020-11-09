@@ -22,16 +22,16 @@
       "usePolyfill": true,
       "locale": "en"
     },
+    "@vuetify/vue-cli-plugin-presets": {
+      "version": "0.1.0-alpha.6",
+      "configuration": "base"
+    },
     "vue-cli-plugin-electron-builder": {
       "version": "2.0.0-rc.5",
       "electronBuilder.electronVersion" : "^9.0.0"
     },
     "vue-cli-plugin-electron-vuetify": {
-      "install": true
-    },
-    "@vuetify/vue-cli-plugin-presets": {
-      "version": "0.1.0-alpha.6",
-      "configuration": "base"
+      "installElectronVuetify": true
     }
   },
   "cssPreprocessor": "dart-sass",
