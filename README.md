@@ -20,7 +20,7 @@ vue-cli plugin to easily scaffold Vuetify 2.x w/ Electron 9.0
 Using the latest version of `@vue/cli` - run the following command:
 
 ```bash
-  vue create my-app --preset electron-vuetify
+  vue create --preset majesticpotatoe/vue-cli-plugin-electron-vuetify my-app
 ```
 
 > It is currently recommended to only use this preset to start a new project via the provided preset. In the future, a more robust setup may be created to handle the addition to existing projects.
@@ -46,4 +46,3 @@ Electron-vuetify is set up in a way to be used as both a standard SPA as well as
   // electron app
   yarn electron:build
 ```
-
