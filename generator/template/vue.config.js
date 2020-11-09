@@ -9,7 +9,7 @@ module.exports = {
         productName: 'ElectronVuetify',
         appId: 'org.majesticpotatoe.electronvuetify',
         win: {
-          icon: './src/assets/icons/win/vuetify.ico',
+          icon: './src/assets/icons/win/icon.ico',
           target: 'nsis',
           // use this to auto-publish. Repository required in package.json
           // publish: ['github']

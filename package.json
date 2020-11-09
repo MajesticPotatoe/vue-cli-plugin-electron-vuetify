@@ -1,6 +1,6 @@
 {
 	"name": "vue-cli-plugin-electron-vuetify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "vue-cli plugin to easily scaffold Vuetify 2.x w/ Electron 9.0",
   "main": "index.js",
 	"repository": {

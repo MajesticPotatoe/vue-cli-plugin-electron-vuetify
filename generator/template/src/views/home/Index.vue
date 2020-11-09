@@ -15,7 +15,7 @@
       </v-col>
       <v-col cols="6">
         <v-img
-          :src="require('./../../assets/icons/svg/vuetify.svg')"
+          :src="require('./../../assets/icons/svg/electron-vuetify.svg')"
           class="mb-6"
           contain
           height="150"
