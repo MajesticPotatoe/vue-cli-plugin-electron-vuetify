@@ -1,7 +1,7 @@
 # vue-cli-plugin-electron-vuetify
 
 <div align="center">
-  <img width="500" src="/assets/electron-vuetify-banner.png" alt="electron-vuetify">
+  <img width="500" src="/generator/template/src/assets/electron-vuetify-banner.png" alt="electron-vuetify">
 </div>
 
 vue-cli plugin to easily scaffold Vuetify 2.x w/ Electron 9.0
