@@ -87,7 +87,7 @@ controls aspects of the electron window.
 #### actions
 
 | Name | Description |
-| --- | --- | --- |
+| --- | --- |
 | **closeWin** | closes the electron window |
 | **minimizeWin** | _minimizes_ the electron window |
 | **toggleFullscreen** | toggles the electron window between a _fullscreen_ and _normal_ state |
